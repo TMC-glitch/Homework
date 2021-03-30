@@ -22,7 +22,7 @@ then find a concise, descriptive title. </li>
 
  #### <h1> Screenshots
  ![Screenshot](/Users/shy/conn-hfd-virt-fsf-pt-03-2021-u-c/Homework/Assets/Images/Screen Shot 3.png)
- ! [Screenshot]/Users/shy/conn-hfd-virt-fsf-pt-03-2021-u-c/Homework/Assets/Images/Screen Shot 1.png
+ ![Screenshot]/Users/shy/conn-hfd-virt-fsf-pt-03-2021-u-c/Homework/Assets/Images/Screen Shot 1.png
  
  
 
